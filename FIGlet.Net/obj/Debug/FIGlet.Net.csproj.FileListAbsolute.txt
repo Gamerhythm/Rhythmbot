@@ -1,0 +1,5 @@
+G:\Downloads\FIGlet-master\FIGlet-master\FIGlet.Net\bin\Debug\FIGlet.Net.dll
+G:\Downloads\FIGlet-master\FIGlet-master\FIGlet.Net\bin\Debug\FIGlet.Net.pdb
+G:\Downloads\FIGlet-master\FIGlet-master\FIGlet.Net\obj\Debug\FIGlet.Net.csprojResolveAssemblyReference.cache
+G:\Downloads\FIGlet-master\FIGlet-master\FIGlet.Net\obj\Debug\FIGlet.Net.dll
+G:\Downloads\FIGlet-master\FIGlet-master\FIGlet.Net\obj\Debug\FIGlet.Net.pdb

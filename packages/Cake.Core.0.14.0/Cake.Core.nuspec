@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>Cake.Core</id>
+    <version>0.14.0</version>
+    <authors>Patrik Svensson</authors>
+    <owners>Patrik Svensson</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/cake-build/cake/blob/develop/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/cake-build/cake</projectUrl>
+    <iconUrl>https://raw.githubusercontent.com/cake-build/graphics/master/png/cake-medium.png</iconUrl>
+    <description>The Cake core library.</description>
+    <summary>Cake (C# Make) is a build automation system with a C# DSL to do things like compiling code, copy files/folders, running unit tests, compress files and build NuGet packages.</summary>
+    <releaseNotes>Remove obsoleted XmlPoke Aliases
+ToolSettings should allow should support of exit codes other than 0
+Add support for skipautoprops flag OpenCover Alias
+Support Octopus Deploy Push (octo.exe push)
+Add WiX heat support
+Cake looks for configuration file in the wrong place
+Wrong platform "Any CPU" for project file (expects "AnyCPU")
+Change parameter names passed by GitVersion Alias
+Improve logging with NuGet Install Alias
+Additional null checks for module support
+Suppress obsolete warnings on Mono
+Add known parameters to CakeOptions
+Add working directory to ToolSettings class
+Refactor ICakeEnvironment
+Allow setting `/testsettings:` file for MSTest runner
+Corrected documentation for Directory Alias
+Corrected documentation for DotNetBuild Alias</releaseNotes>
+    <copyright>Copyright (c) .NET Foundation and Contributors</copyright>
+    <tags>Cake Script Build</tags>
+  </metadata>
+</package>

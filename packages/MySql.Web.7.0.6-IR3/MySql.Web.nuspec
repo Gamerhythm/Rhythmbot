@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2013/05/nuspec.xsd">
+  <metadata>
+    <id>MySql.Web</id>
+    <version>7.0.6-IR3</version>
+    <authors>Oracle</authors>
+    <owners>Oracle</owners>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <licenseUrl>http://www.mysql.com/about/legal/licensing/foss-exception/</licenseUrl>
+    <projectUrl>http://dev.mysql.com/downloads/</projectUrl>
+    <iconUrl>http://www.mysql.com/common/logos/logo-mysql-170x115.png</iconUrl>
+    <description>ADO.Net driver for MySQL</description>
+    <releaseNotes>Review Readme.txt for details.</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>MySql MySql.Web Connector/NET</tags>
+    <dependencies>
+      <dependency id="MySql.Data" version="7.0.6-IR3" />
+    </dependencies>
+  </metadata>
+</package>

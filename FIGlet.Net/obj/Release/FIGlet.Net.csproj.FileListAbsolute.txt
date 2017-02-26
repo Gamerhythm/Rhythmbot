@@ -1,0 +1,5 @@
+G:\Documents\Visual Studio 2015\Projects\Rhythmbot\FIGlet.Net\bin\Release\FIGlet.Net.dll
+G:\Documents\Visual Studio 2015\Projects\Rhythmbot\FIGlet.Net\bin\Release\FIGlet.Net.pdb
+G:\Documents\Visual Studio 2015\Projects\Rhythmbot\FIGlet.Net\obj\Release\FIGlet.Net.csprojResolveAssemblyReference.cache
+G:\Documents\Visual Studio 2015\Projects\Rhythmbot\FIGlet.Net\obj\Release\FIGlet.Net.dll
+G:\Documents\Visual Studio 2015\Projects\Rhythmbot\FIGlet.Net\obj\Release\FIGlet.Net.pdb
